@@ -1,10 +1,8 @@
 ### Hi 👋
-<p>🌱 I’m currently learning python.</p>
-<p>👯 I’m looking to collaborate on.</p> 
-<p>💬 Ask me about Python and Automation.</p>
+
 <h3>Connect With Me:</h3>
 <!--Twitter Plugin-->
-<!--<a href="https://twitter.com/VishalK43076587" rel="nofollow"><img align="left" alt="Vishal-Twitter | Twitter" width="22px" src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a>-->
+<a href="https://twitter.com/VishalK43076587" rel="nofollow"><img align="left" alt="Vishal-Twitter | Twitter" width="22px" src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a>
 
 <!--Instagram Plugin-->
 <a href="https://instagram.com/vishal.kli" rel="nofollow"><img align="left" alt="Vishal-Instagramm | Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a>
